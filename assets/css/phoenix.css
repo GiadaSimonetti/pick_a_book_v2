@@ -30,7 +30,7 @@ section,
 summary {
   display: block;
 }
-audio,
+/* audio,
 canvas,
 progress,
 video {
@@ -7183,7 +7183,7 @@ button.close {
   .hidden-print {
     display: none !important;
   }
-}
+} */
 
 /* Space out content a bit */
 @import url("https://fonts.googleapis.com/css?family=Lato");
